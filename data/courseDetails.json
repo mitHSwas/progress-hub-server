@@ -1,0 +1,265 @@
+[
+    {
+        "_id": "6358e61180bdc04f48b7b53b",
+        "category_id": "01",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fLIzpJNuqmXu9_rNwobZUzS27AhYdQ_vRQ&usqp=CAU",
+        "price": 154,
+        "course_name": "Data Science",
+        "instructor": "Cosmosis",
+        "email": "graciechristensen@cosmosis.com",
+        "about": "Data Science is determined as a combination of tools, algorithms, mathematics, business insight and machine learning techniques. It helps us in figuring out the invisible patterns from raw data which can be a dominant use in the creation of business decisions.  Getting enrolled in data science certification course will help you to learn about various machine learning algorithms, fundamentals of Hadoop Framework integration with R, Tableau, Python, experimentation, evaluation and project deployment tools, etc. In Data science online course and certification, you will get practical data science experience by participating in different real-life projects in various areas of banking, e-commerce, finance, information technology, etc. So, take a data science course and get trained by highly qualified instructors.",
+        "features": [
+            "Professionals who are proficient with statistical analysis, machine learning and other data-driven profiles",
+            "Individuals who are interested in becoming a data scientist or (big) data analyst",
+            "Professionals and freshers with the technical know-how of subjects like mathematics and statistics",
+            "Data analysts who are looking to skill up with the latest technologies"
+        ]
+    },
+    {
+        "_id": "6358e611af7b426842efeb72",
+        "category_id": "01",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-bQQGZnmUhUYdyaUvNEnb8w2ZAD1tiMGch7hXDYWAhRIRsSVp_g6dfM7si1OYWgog50&usqp=CAU",
+        "price": 166,
+        "course_name": "Python",
+        "instructor": "Nikuda",
+        "email": "adaodonnell@nikuda.com",
+        "about": "Shine Learning’s python online courses will breakthrough your conceptual knowledge on python programming and packages in the cutthroat market. Enrolling with python certification course offers training for certifications like Microsoft, PCEP, CEPP, PCAP and PCPP. Besides, you will effectively learn to write Python code for Big Data System like Spark and Hadoop.  These courses will help you master Python programming skills and essential tools of Data Science. Moreover, the course offers you to work with real-time data and gain experience to handle complex business data in future.",
+        "features": [
+            "Programmers, Developers, Technical Leads, Architects",
+            "Developers aspiring to be a ‘Machine Learning Engineer'",
+            "Analytics Managers who are leading a team of analysts",
+            "Business Analysts who want to understand Machine Learning (ML) Techniques",
+            "Information Architects who want to gain expertise in Predictive Analytics",
+            "'Python' professionals who want to design automatic predictive models"
+        ]
+    },
+    {
+        "_id": "6358e611adb5e82ecd3acae8",
+        "category_id": "02",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpvQ4_OYx8HXB1W3cHNRxRL3SrGCYnmi2h8Q&usqp=CAU",
+        "price": 136,
+        "course_name": "Machine Learning",
+        "instructor": "Xeronk",
+        "email": "gardnerrocha@xeronk.com",
+        "about": "Machine Learning is a form of artificial intelligence which automates data analysis to enable computers to learn and adapt to do some specific tasks without explicit programming. It is already taking over the world, and with that, there pertains growing need for professionals to know the detailed structure of machine learning. By taking a machine learning and artificial intelligence course, you will be able to master the concepts of machine learning which includes supervised and unsupervised learning, heuristic and mathematical aspects, hand on modelling to build algorithms and prepare for new roles of Machine Learning expert, grasp on modelling to develop algorithms and prepare for new roles of Machine Learning expert. Shine Learning, being the best certification body for machine learning, offers extensive certification and training course to eliminate the lack of experts in the market.",
+        "features": [
+            "Business Analyst who are looking to understand data science techniques",
+            "Analytics professionals who want to work in artificial intelligence or machine learning",
+            "Experienced candidates who wish to gain expertise in machine learning algorithms",
+            "Analytics Managers who are leading a team of Analysts",
+            "Developers looking to build their career as a data scientist or machine learning engineers"
+        ]
+    },
+    {
+        "_id": "6358e6118b8dde74616b3c38",
+        "category_id": "03",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL0XzYa6ZJSiQWGrswYsz28lQdeQ5T9TSgew&usqp=CAU",
+        "price": 109,
+        "course_name": "Cyber Security",
+        "instructor": "Exostream",
+        "email": "joycombs@exostream.com",
+        "about": "Cyber Security is the process designed to protect systems, programs and networks from an attack or any unauthorized access. The cybersecurity course will guide the professionals to detect vulnerabilities, spurn attacks and respond to emergencies without delay. The training and certification course will enable you to learn cybersecurity best practices which will open the doors to most high level IT job opportunities. Besides, it will set a stage for you to move deeper into cybersecurity specialities. Shine  Learning, being the best certification body for cybersecurity, offers extensive certification and training course to eliminate the lack of information security experts in the market.",
+        "features": [
+            "Candidates working as system administrators, information assurance managers, or working in a security department.",
+            "Auditors, security engineers or compliance professionals",
+            "Candidates with an inclination towards risk management "
+        ]
+    },
+    {
+        "_id": "6358e611507f0499ffddde55",
+        "category_id": "05",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx9c1xBQ1Fv1iIZVrg0gGXF9MgjxXswR39w&usqp=CAU",
+        "price": 196,
+        "course_name": "MongoDB",
+        "instructor": "Jeannie Holt",
+        "about": "The most advanced cloud database service on the market, with unmatched data distribution and mobility across AWS, Azure, and Google Cloud, built-in automation for resource and workload optimization, and so much more.The core of our developer data platform is a multi-cloud database service built for resilience, scale, and the highest levels of data privacy and security. With MongoDB Atlas, your database is a trusted foundation that enables you to work with data the way you want – easily and effortlessly.",
+        "features": [
+            "Access control.",
+            "VPC peering",
+            "IP whitelists",
+            "Data encryption in transit.",
+            "Data encryption at rest.",
+            "Field-level encryption."
+        ]
+    },
+    {
+        "_id": "6358e6119285ae16462597aa",
+        "category_id": "04",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfrVWwwYNYGqPqndPBDgnqvmzVRNRDmFKtfA&usqp=CAU",
+        "price": 194,
+        "course_name": "Blockchain",
+        "instructor": "Tersanki",
+        "email": "whitfieldstanley@tersanki.com",
+        "about": "The blockchain is a digital technology-based system for keeping records in decentralized databases. The blockchain certification course will help you to master the concepts of blockchain and its platforms such as Bitcoin, Hyperledger, Ethereum, programming, Multichain, cryptocurrency, cryptography, Bitcoin mining, blockchain architecture, core layers, applications along with more technologies that will help you to enhance career opportunities in Blockchain. Also, enables you to work on, maintain, leverage, or create your own blockchain systems. You will endeavour on case studies and real-world projects for gaining practical experience in Blockchain courses.",
+        "features": [
+            "Developers looking for a career in Blockchain technology",
+            "Developers and technology architects looking to develop their own blockchain system",
+            "Developers looking to develop applications based on Ethereum blockchain",
+            "IT professionals wanting to work on Bitcoin, Ethereum, and Hyperledger",
+            "Professionals (with a technical background) looking to implement Blockchain technology in their businesses",
+            "Individuals interested in ERC20 and ICOs from a technological point of view"
+        ]
+    },
+    {
+        "_id": "6358e611405e5d48b032fff2",
+        "category_id": "04",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzCFaaRCmqAbHxNlLkzLnU9UDnDpxfjknk9w&usqp=CAU",
+        "price": 122,
+        "course_name": "Selenium Professional",
+        "instructor": "Levy Sherman",
+        "email": "levysherman@zytrex.com",
+        "about": "The certification boosts entrants and professional in their domain and adds more growth aspects to the profession. By engaging in Vskills Certified Selenium Professional, candidates can avail more chances of employment and furnish their skillset in today’s challenging market. This ultimately leads to higher earnings in the due course.",
+        "features": [
+            "The demand for Selenium Professionals is continuously increasing.",
+            "Companies in web development and software development are the hiring zones."
+        ]
+    },
+    {
+        "_id": "6358e6110d147012d7ad3df7",
+        "category_id": "05",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyiZUjTIfRuSVLDPFOGyKSzU7tJFzxhHblQ&usqp=CAU",
+        "price": 188,
+        "course_name": "DevOps Certification Training",
+        "instructor": "Wheeler Hubbard",
+        "email": "wheelerhubbard@plasmos.com",
+        "about": "Our DevOps Training is designed keeping in mind the latest market trend. This course will provide you with the in-depth knowledge of various DevOps tools including Git, Jenkins, Selenium, Puppet, Ansible, Docker, Kubernetes and Nagios. This training is completely hands-on oriented and designed in a way that will help you in becoming a certified practitioner by providing you with an intensified training for the best practices about Continuous Development, Continuous Integration, Continuous Testing, Configuration Management,  Continuous Deployment and finally Continuous Monitoring of the software throughout its development life cycle.DevOps Certification Training is designed by industry experts to make you a Certified DevOps practitioner",
+        "features": [
+            "The exposure to the stage of continuous monitoring using Nagios",
+            "Working on Continuous Deployment stage",
+            "Rigorous involvement of a DevOps expert throughout the DevOps Training",
+            "Working on Continuous Deployment stage"
+        ]
+    },
+    {
+        "_id": "6358e611ade4ee362d8640c6",
+        "category_id": "03",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4jO0Nq2-8XZNBh_kCyEThugNZgZdCTlXRA&usqp=CAU",
+        "price": 154,
+        "course_name": "Artificial Intelligence",
+        "instructor": "Quarx",
+        "email": "joannnguyen@quarx.com",
+        "about": "Machine Learning is a form of artificial intelligence which automates data analysis to enable computers to learn and adapt to do some specific tasks without explicit programming. It is already taking over the world, and with that, there pertains growing need for professionals to know the detailed structure of machine learning. By taking a machine learning and artificial intelligence course, you will be able to master the concepts of machine learning which includes supervised and unsupervised learning, heuristic and mathematical aspects, hand on modelling to build algorithms and prepare for new roles of Machine Learning expert, grasp on modelling to develop algorithms and prepare for new roles of Machine Learning expert. Shine Learning, being the best certification body for machine learning, offers extensive certification and training course to eliminate the lack of experts in the market.",
+        "features": [
+            "Business Analyst who are looking to understand data science techniques",
+            "Analytics professionals who want to work in artificial intelligence or machine learning",
+            "Experienced candidates who wish to gain expertise in machine learning algorithms",
+            "Analytics Managers who are leading a team of Analysts",
+            "Developers looking to build their career as a data scientist or machine learning engineers"
+        ]
+    },
+    {
+        "_id": "6358e61199a8e4a5f1609189",
+        "category_id": "06",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseAKDMgjJ5pNuMNwthLiDGIh-P1fKQret0w&usqp=CAU",
+        "price": 118,
+        "course_name": "Data visualization",
+        "instructor": "Courtney Cote",
+        "email": "courtneycote@genmy.com",
+        "about": "Data visualization is a general term that describes any effort to help people understand the significance of data by placing it in a visual context. Patterns, trends and correlations that might go undetected in text-based data can be exposed and recognized easier with data visualization software.It has become the de facto standard for modern business intelligence. The success of the two leading vendors in the BI space, Tableau and Qlik -- both of which heavily emphasize visualization -- has moved other vendors toward a more visual approach in their software.",
+        "features": [
+            "You will get a private learning space",
+            "where you can go through the sessions",
+            "complete the courseat your place, and pace.",
+            "Our support team will help you",
+            "with your queries throughout the course."
+        ]
+    },
+    {
+        "_id": "6358e611e641d07ebd1b0f21",
+        "category_id": "06",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdcRB5MULM1GA_fvAwUAPATmKVKNTAweon8w&usqp=CAU",
+        "price": 159,
+        "course_name": "Data Architect",
+        "instructor": "Faith Macias",
+        "email": "faithmacias@gogol.com",
+        "about": "The objective of this course by 361dm is to specialize the learner in visulaization that plays a key role in analytics providing sound business insights and facilitating decision making. This program gives the learner an expertise in Tableau.Data visualization is a general term that describes any effort to help people understand the significance of data by placing it in a visual context. Patterns, trends and correlations that might go undetected in text-based data can be exposed and recognized easier with data visualization software.It has become the de facto standard for modern business intelligence. The success of the two leading vendors in the BI space, Tableau and Qlik -- both of which heavily emphasize visualization -- has moved other vendors toward a more visual approach in their software. Virtually all BI software has strong data visualization functionality.",
+        "features": [
+            "High Quality e-Learning content",
+            "Practice exercise",
+            "Portal to ask queries",
+            "On-demand support from E-coach",
+            "Interaction with your co-learners (called buddies) while you learn",
+            "Educative and fun break-time activities while you learn",
+            "Discussion Forum and Blog"
+        ]
+    },
+    {
+        "_id": "6358e611d43e6b8f40a8778e",
+        "category_id": "07",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXWpkd-BuufXfg_cC2DVu5Kd34jHwxyHyNw&usqp=CAU",
+        "price": 127,
+        "course_name": "IoT (Internet of Things)",
+        "instructor": "Phelps Perry ",
+        "email": "phelpsperry@zoarere.com",
+        "about": "IoT is a fast becoming an important part of our lives. The world is changing at an incredible pace, with the number of IoT devices increasing by 31 per cent year over year. By 2022 it’s predicted that there will be around 30 billion IoT devices and a global market of $7.1 trillion. Candidates who are looking forward to going for the IoT certification course can help them to gain a solid understanding of how to develop and implement your IoT solutions using a sensor connected IOT devices and other functions. With the professional certification course, candidates can get job opportunities as IOT architect, IOT cloud engineer, IOT developer etc.",
+        "features": [
+            "Certificate of Completion at the end of the course",
+            "Performance tracking and benchmarking with all others",
+            "Discussion Forum and Blog",
+            "Educative and fun break-time activities while you learn"
+        ]
+    },
+    {
+        "_id": "6358e6116be6bd63d50b85be",
+        "category_id": "08",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPRSfFhIz6o1FD_JVDba7KM0iAhWyQVAxa_w&usqp=CAU",
+        "price": 196,
+        "course_name": "Machine Learning",
+        "instructor": "Dunlap Hunt",
+        "email": "dunlaphunt@knowlysis.com",
+        "about": "Machine Learning is a form of artificial intelligence which automates data analysis to enable computers to learn and adapt to do some specific tasks without explicit programming. It is already taking over the world, and with that, there pertains growing need for professionals to know the detailed structure of machine learning. By taking a machine learning and artificial intelligence course, you will be able to master the concepts of machine learning which includes supervised and unsupervised learning, heuristic and mathematical aspects, hand on modelling to build algorithms and prepare for new roles of Machine Learning expert, grasp on modelling to develop algorithms and prepare for new roles of Machine Learning expert. Shine Learning, being the best certification body for machine learning, offers extensive certification and training course to eliminate the lack of experts in the market.",
+        "features": [
+            "Business Analyst who are looking to understand data science techniques",
+            "Analytics professionals who want to work in artificial intelligence or machine learning",
+            "Experienced candidates who wish to gain expertise in machine learning algorithms",
+            "Analytics Managers who are leading a team of Analysts",
+            "Developers looking to build their career as a data scientist or machine learning engineers"
+        ]
+    },
+    {
+        "_id": "6358e611d74bb7a3c14f7f78",
+        "category_id": "02",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1LIyOpfEQMF2wXf0jwRoHoZNrEVH46XrNzQ&usqp=CAU",
+        "price": 137,
+        "course_name": "Cloud Computing",
+        "instructor": "Steelfab",
+        "email": "piercelawson@steelfab.com",
+        "about": "Cloud computing courses will demonstrate training on top cloud computing platforms.  Shine offers the best cloud computing courses which are specially devised by industry professionals as per the industry norms and requirements. You will master how to design, implement and manage complete cloud computing applications and cloud architecture. Besides, you will learn about the implementation of vital cloud security features on various platforms such as AWS, Microsoft Azure, and Google Cloud Platform and other technologies. The cloud computing training will further help you to prepare for numerous certification examinations like Azure Administrator, Cloud Architect, Azure Solution Architect, etc.",
+        "features": [
+            "Candidates interested in Cloud Computing technologies and willing to carve a career into it",
+            "Professionals who are already working in this field can enhance their skills and knowledge",
+            "Individuals interested in Cloud computing with keen interest in new technologies can go for this course"
+        ]
+    },
+    {
+        "_id": "6358e611c4e23d7a42dd7b13",
+        "category_id": "08",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPFYWXjML_-evBnQ3Ck-sj2qcFsb9qJSmZA&usqp=CAU",
+        "price": 184,
+        "course_name": "Logistic Regression",
+        "instructor": "Jeannette Berger",
+        "email": "jeannetteberger@eweville.com",
+        "about": "You should already have background knowledge of how ML works or completed the learning materials in the beginner curriculum Basics of machine learning with TensorFlow before continuing. The below content is intended to guide learners to more theoretical and advanced machine learning content. You will see that many of the resources use TensorFlow, however, the knowledge is transferable to other ML frameworks.",
+        "features": [
+            "Have software development experience, particularly in Python",
+            "Improve their understanding of ML",
+            "Begin understanding and implementing papers with TensorFlow"
+        ]
+    },
+    {
+        "_id": "6358e6112ac7c92644e14d2e",
+        "category_id": "07",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFlhYrPAqIuDCemXGz_en9VvHUXLBg3RKPA&usqp=CAU",
+        "price": 165,
+        "course_name": "Big Data",
+        "instructor": "Janet Lindsey",
+        "email": "janetlindsey@paprikut.com",
+        "about": "Do you want to know about big data and how does it play a vital role to impact your business? You are on the right place. Big data course are formulated and designed in a way to provide you with an in-depth understanding of the Big Data and its various frameworks. You will learn the utilization of frameworks such as Hadoop with Spark, MapReduce, Pig and Hive, which is further used for the development of the massive amount of data in a distributed computing environment. Also, you will have an idea of what insights big data can give. A complete industry-relevant big data online course will give a head start to individuals who are looking to develop their career in big data analytics. On successful completion of the course, candidates will be awarded big data certification, which helps you to revolutionize market and business.",
+        "features": [
+            "Professionals who are willing to drive and implement a data-driven transformation.",
+            "Candidates interested in Big Data and want to learn new technologies.",
+            "Highly recommended for professionals working with machine learning",
+            "the business gap while helping in the decision-making process."
+        ]
+    }
+]
