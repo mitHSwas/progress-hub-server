@@ -1,0 +1,42 @@
+[
+    {
+        "id": "01",
+        "name": "Data Science",
+        "description": "As evident from 'scientist' they fetch data, construct and maintain databases, clean and segregate data for various needs and also work on data visualisation and analysis.At the top lies a data science job. These have a diverse set of profiles under them and require particular expertise. Data science certification is mandatory to get a job. The scope for data scientists is lower compared to big data due to the different (individual) profiles that lie under the umbrella of data science."
+    },
+    {
+        "id": "02",
+        "name": "Cloud Computing",
+        "description": "Cloud computing is changing the hiring pattern in the IT industry. In the coming days, IT companies will replace professionals having generic skills with those having cloud computing expertise. With the increased adoption of cloud computing in Indian companies - across size and verticals, the market size for cloud computing professionals will increase substantially."
+    },
+    {
+        "id": "03",
+        "name": "Cyber Security",
+        "description": "With increasing threat, cybersecurity jobs are increasing in demand across all major sectors. It is expected that global spending on cybersecurity products and services expected to rise by 12 to 15 per cent until 2021. Respectively, the Internet market is expected to grow by 7 per cent this year and so opportunities.  Candidates are more in demand with cybersecurity certification. The certification further will help you to work as a Network Administrator, systems administrator, IT manager, security engineer, security consultant etc."
+    },
+    {
+        "id": "04",
+        "name": "BlockChain",
+        "description": "With the increase in technology, blockchain represents a significant transformation for critical industries such as real estate, healthcare, insurance and many more. The demand for blockchain professionals has grown necessarily, and by 2025, 18% of the world’s GDP will be on blockchain technologies. Candidates having relevant blockchain certification will help them to further land with the job opportunities as business development, engineering, operations and many others."
+    },
+    {
+        "id": "05",
+        "name": "DevOps",
+        "description": "DevOps is the most demanding technology in the IT industry with the highest annual pay. It is a continuous method which involves many popular tools like Puppet, Docker, and Chef etc. Candidates who are leading experts are gaining a well proficient job in the top MNC’s.  Through DevOps certification, one can gain knowledge on DevOps lifecycle and other strong technical skills that are required for getting a specific job position like DevOps engineer, DevOps manager, DevOps architect etc."
+    },
+    {
+        "id": "06",
+        "name": "Data Visualization",
+        "description": "In today’s era, data visualisation being embraced more. Data visualisation is all about representing data in a graphical or pictorial format to provide fact-based analysis to the decision-makers. People who are leading ahead to opt for the certification course of data visualisation will help them to improve communication and other fundamental concepts of it. With the further certification course, one can get the job positions as a business intelligence analyst, data visualisation engineer, data analyst etc."
+    },
+    {
+        "id": "07",
+        "name": "IoT (Internet of Things)",
+        "description": "IoT is a fast becoming an important part of our lives. The world is changing at an incredible pace, with the number of IoT devices increasing by 31 per cent year over year. By 2022 it’s predicted that there will be around 30 billion IoT devices and a global market of $7.1 trillion. Candidates who are looking forward to going for the IoT certification course can help them to gain a solid understanding of how to develop and implement your IoT solutions using a sensor connected IOT devices and other functions."
+    },
+    {
+        "id": "08",
+        "name": "Full-stack",
+        "description": "Full-stack developers are the developers who are assigned with the task of designing complete apps and websites. These developers work on all surface of development, from frontend to backend, to the database and even testing and debugging.  By gaining certification for full stack developer, one can learn core concepts of both frontend and backend programming; learn all about SQL and no SQL database, fundamental concepts of programming languages and many other essential things required to secure a job in many IT Industries."
+    }
+]
