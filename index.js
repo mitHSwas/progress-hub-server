@@ -26,6 +26,13 @@ app.get("/courses", (req, res) => {
     res.send(courses)
 })
 
+app.get("/courseDetails/:id", (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+    const selectedCourse = courses.find(course => course._id === id);
+    res.send(selectedCourse);
+})
+
 app.listen(port, () => {
     console.log("Progress hub server is listening on port", port)
 })
